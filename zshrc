@@ -7,3 +7,4 @@ source $scripts/export_zsh_configs.sh
 source $scripts/export_envs.sh
 source $scripts/history_search.sh
 source $scripts/nvm_auto_switch.sh
+source $scripts/export_alias.sh
