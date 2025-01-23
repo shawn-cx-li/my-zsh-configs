@@ -1,7 +1,7 @@
 #! /bin/bash
 
 ### ctrl+r for history searching
-# to enable `pip3 install percol`
+# to enable `brew install percol`
 function exists { which $1 &> /dev/null }
 
 if exists percol; then
